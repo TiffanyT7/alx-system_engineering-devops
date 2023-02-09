@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir | chmod u+rwx my_dir | chmod g+rx my_dir | chmod g-w my_dir | chmod o+x my_dir | chmod o-rw my_dir
+mkdir -m 751 my_dir
