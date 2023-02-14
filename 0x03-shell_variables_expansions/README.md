@@ -13,3 +13,4 @@
 13. Create a script that prints all possible combinations of two letters, except oo.
 14. Wrtite a script that prints a number with two decimal places, followed by a new line.
 15. Write a script that converts a number for base 10 to base 16.
+16. Write a script that encodes and ecodes text using rot13 encrytion.
