@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo bash -c 'echo "hello $USER"'
+echo hello $USER
